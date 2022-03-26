@@ -1,0 +1,15 @@
+body{
+    background-color: fuchsia;
+    
+}
+
+.filho{
+    background-color: purple;
+    color: white;
+    border: 10px inset green;
+}
+
+.teste{
+
+    background-color:aqua;
+}
